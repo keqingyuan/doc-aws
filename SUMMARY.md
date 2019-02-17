@@ -1,7 +1,6 @@
 # Summary
 
-* [封面](README.md)
-* [目标](REMADME.md)
+* [目标](README.md)
 * [AWS介绍](chapter1.md)
 * [门户网站](chapter2.md)
 * [AWS通用产品介绍](chapter3.0.md)
