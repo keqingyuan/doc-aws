@@ -19,5 +19,7 @@ AWS Cloud9 提供一种终端，它拥有您的托管 Amazon EC2 实例的完整
 AWS Cloud9 与 AWS CodeStar 集成，从而使您能够为您的应用程序快速设置端到端持续交付工具链并更快地开始在 AWS 上发布代码。Codestar 提供统一体验，使您能够在 AWS CodeCommit、AWS CodeBuild、AWS CodePipeline 和 AWS CodeDeploy 的帮助下轻松构建、测试应用程序并将其部署到 AWS。只需单击几下即可将您的 Cloud9 开发环境连接到持续交付工具链。
 #### 文件修订历史记录
 AWS Cloud9 会将文件的修订历史记录保存在您的开发环境中。这使您能够快速了解之前所做的代码更改，以及恢复至早期的迭代。
+#### 键盘快捷键
+除了默认密钥绑定，AWS Cloud9 还提供使用 VIM、Emacs 和 Sublime 密钥绑定的选项，您也可以自定义绑定。这使得您能够使用您已熟悉的命令和快捷键。
 #### 内置图像编辑器
 AWS Cloud9 支持图像编辑功能，使您能够直接从浏览器中调整图像大小以及裁剪、旋转或翻转图像。
