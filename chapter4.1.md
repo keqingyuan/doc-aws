@@ -56,5 +56,6 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 点击`Create deployment`按钮，展现下图的界面，[AWS CodeDeploy](chapter4.6.md) 有部署配置和回滚策略相比较PSET而言这是一个亮点。
 ![create-deployment](/assets/2019-02-17_163724.png)
 ***部署配置：***是一组规则，用于确定部署应用程序的速度以及部署的成功或失败条件。
+***回滚策略：***如果开启回滚策略，部署失败时或者遇满足警报阈值时回滚
 
 **Pipeline**
