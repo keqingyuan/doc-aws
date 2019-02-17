@@ -63,3 +63,4 @@ Pipeline是 [AWS CodePipeline](chapter4.7.md) 服务。点击`Pipelines`菜单�
 ![pipeliine](/assets/2019-02-17_165947.png)
 点击Pipeline的名字，展现下图，从源码到部署一个完整的流水线。
 ![pipeline](/assets/2019-02-17_170651.png)
+#### 团队
