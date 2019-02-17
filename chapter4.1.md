@@ -11,7 +11,7 @@ AWS CodeStar 提供统一的用户界面，让您可以轻松协调您的日常�
 #### 有多种项目模板可选
 借助 AWS CodeStar 的项目模板，您可以轻松开发各种应用程序，例如，网站、Web 应用程序、Web 服务和 Alexa 工具。AWS CodeStar 的项目模板提供多种兼容的编程语言（包括 Java、JavaScript、PHP、Ruby、C# 和 Python）代码，让您可以快速上手。
 ## 定价
-AWS CodeStar 不会额外收取任何费用。您只需为您在 CodeStar 项目中实际预置的 AWS 资源（例如，Amazon EC2 实例、AWS Lambda 执行次数、Amazon Elastic Block Store 卷或 Amazon S3 存储桶）付费。您只需按您的实际用量付费；既没有最低费用，也无需预付费。
+AWS CodeStar 不会额外收取任何费用。您只需为您在 CodeStar 项目中实际预置的 AWS 资源（例如，[Amazon EC2 实例]()、AWS Lambda 执行次数、Amazon Elastic Block Store 卷或 Amazon S3 存储桶）付费。您只需按您的实际用量付费；既没有最低费用，也无需预付费。
 详情参考[定价](https://aws.amazon.com/cn/codestar/pricing/?nc=sn&loc=3)
 ## 体验CodeStar
 在CodeStar上快速创建应用还是很简单的，从选择项目模板到选择源码托管存储一个最基本的项目创建完成。

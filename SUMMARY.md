@@ -44,6 +44,7 @@
 * [区块链](chapter9.0.md)
 * [业务应用程序](chapter10.0.md)
 * [计算](chapter11.0.md)
+  * [Amazon EC2](chapter11.1.md)
 * [客户参与](chapter12.0.md)
 * [数据库](chapter13.0.md)
 * [桌面和应用程序流式处理](chapter14.0.md)
