@@ -48,6 +48,6 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 ![deploy](/assets/2019-02-17_160127.png)
 点击应用名称以后，看到下图的界面。可以看到有部署组的概念，详情见 [AWS CodeDeploy](chapter4.6.md) 部署组，部署组一般用环境或者配置来分组。
 ![deploy-group](/assets/2019-02-17_162851.png)
-点击一个部署组名称，进入到部署组的详情界面，在这里创建一个部署，
+点击一个部署组名称，进入到部署组的详情界面，可以获知这个部署组的出发次数、警告、部署组的部署历史，创建一个部署也在这里。
 ![deploy-configure](/assets/2019-02-17_163432.png)
 **Pipeline**
