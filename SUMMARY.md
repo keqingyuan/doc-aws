@@ -62,4 +62,5 @@
 * [卫星](chapter24.0.md)
 * [安全性、身份与合规性](chapter25.0.md)
 * [存储](chapter26.0.md)
+  * [Amazon Elastic Block Store](chapter26.1.md)
 
