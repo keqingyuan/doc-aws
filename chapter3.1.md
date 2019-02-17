@@ -2,4 +2,6 @@
 
 AWS面向开发人员的服务细分了9个服务，其中CodeStar提供了从
 ### CodeStar 
-在 AWS 上快速开发、构建和部署应用程序
+在 AWS 上快速开发、构建和部署应用程序，详见[CodeStar](chapter4.1.md)。
+### Amazon Corretto
+OpenJDK 的免费、多平台、生产就绪型发行版,详见[Amazon Corretto](chapter4.2.md)。
