@@ -11,3 +11,6 @@ OpenJDK 的免费、多平台、生产就绪型发行版，详见 [Amazon Corret
 通过持续扩展构建和测试代码。只需按构建时付费，详见 [AWS CodeBuild](chapter4.4.md)。
 ### AWS CodeCommit
 安全托管高度可扩展的私有 Git 存储库。协作处理代码，详见 [AWS CodeCommit](chapter4.5.md)。
+### AWS CodeDeploy
+实现代码部署自动化以确保应用程序的正常运行时间，详见 [AWS CodeDeploy](chapter4.6.md)。
+### AWS CodePipline

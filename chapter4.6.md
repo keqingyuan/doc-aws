@@ -1,0 +1,2 @@
+# AWS CodeDeploy
+AWS CodeDeploy 是一项将软件自动部署到各种计算服务（例如 Amazon EC2、AWS Fargate、AWS Lambda 和本地服务器）的完全托管的部署服务。借助 AWS CodeDeploy，您可以更轻松地快速发布新功能，避免在应用程序部署过程中出现停机，并简化应用程序的更新工作。您可以使用 AWS CodeDeploy 自动执行软件部署，而无需执行容易出错的手动操作。服务根据您的部署需求进行扩展。
