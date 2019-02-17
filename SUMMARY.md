@@ -40,5 +40,8 @@
 * [分析](chapter5.0.md)
 * [应用程序集成](chapter6.0.md)
 * [AR和VR](chapter7.0.md)
+* [AWS成本管理](chapter8.0.md)
+* [区块链](chapter9.0.md)
+* []
 
 
