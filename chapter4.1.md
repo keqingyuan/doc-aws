@@ -1,4 +1,4 @@
-# CodeStar
+这个界面这个# CodeStar
 AWS CodeStar 提供了您在 AWS 上快速开发、构建和部署应用程序所需的工具。借助 AWS CodeStar，您可以使用各种项目模板开始在 Amazon EC2、AWS Lambda 和 AWS Elastic Beanstalk 上开发应用程序。AWS CodeStar 项目支持多种常用编程语言，包括 Java、JavaScript、PHP、Ruby 和 Python。AWS CodeStar 提供了一种预配置的持续交付工具链，用于在 AWS 上开发、构建、测试和部署项目，让您可以加快应用程序的交付速度。通过针对不同角色（包括所有者、参与者和观察者）的内置安全策略，您可以轻松保证项目的安全访问。AWS CodeStar 中的项目控制面板让您可以轻松集中监控应用程序活动和管理日常开发任务（例如近期的代码提交、构建和部署）。AWS CodeStar 集成了 Atlassian JIRA 这种第三方问题跟踪和项目管理工具，因此您可以在 AWS CodeStar 控制面板中创建和管理 JIRA 问题。
 
 ## 优势
@@ -36,5 +36,5 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 ### 源码
 点击Code菜单会跳转到 [AWS CodeCommit](chapter4.5.md) 或者 GitHub。
 ### 构建
-按下Build菜单，会显示构建操作的详细界面。
+按下Build菜单，会跳转到[AWS CodeBuild]()服务。左边的菜单栏按照源码、构建、部署、[Pipeline](chapter4.7.md)
 ![CodeStar控制面板-构建](/assets/2019-02-17_152908.png)
