@@ -1,9 +1,9 @@
-# 目录
+# Summary
 
 * [目标](README.md)
 * [AWS介绍](chapter1.md)
 * [门户网站](chapter2.md)
-* [AWS通用产品介绍](chapter3.0.md)
+* [AWS服务产品介绍](chapter3.0.md)
   * [开发人员工具](chapter3.1.md)
   * [分析](chapter3.2.md)
   * [应用程序集成](chapter3.3.md)
