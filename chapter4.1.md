@@ -10,7 +10,9 @@ AWS CodeStar 提供统一的用户界面，让您可以轻松协调您的日常�
 借助 AWS CodeStar，您可以和您的团队开展安全的项目协作。您可以轻松管理项目所有者、参与者和观察者的访问权限，而无需针对每项服务手动配置策略。AWS CodeStar 通过提供符合 AWS Identity and Access Management 最佳实践的基于角色的内置策略，为团队简化了设置项目访问权限的过程。
 #### 有多种项目模板可选
 借助 AWS CodeStar 的项目模板，您可以轻松开发各种应用程序，例如，网站、Web 应用程序、Web 服务和 Alexa 工具。AWS CodeStar 的项目模板提供多种兼容的编程语言（包括 Java、JavaScript、PHP、Ruby、C# 和 Python）代码，让您可以快速上手。
-
+## 定价
+CodeStar的定价是
+详情参考[定价](https://aws.amazon.com/cn/codestar/pricing/?nc=sn&loc=3)
 ## 体验CodeStar
 在CodeStar上快速创建应用还是很简单的，从选择项目模板到选择源码托管存储一个最基本的项目创建完成。
 ![创建流程](/assets/2019-02-17_122412.png)
@@ -30,4 +32,4 @@ AWS CodeStar 提供统一的用户界面，让您可以轻松协调您的日常�
 ![CodeStar控制面板-仪表盘](/assets/2019-02-17_121934.png)
 CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse、IntelliJ、Visual Studio等流行的第三方IDE，第三方的IDE都是以插件为媒介的方式支持，插件安装方式都有详细的说明文档（见[AWS Cloud9](chapter4.3.md) 体验Visual Studio Code），下图是AWS能够支持的IDE。
 ![ide](/assets/2019-02-17_131028.png)
-仪表盘其它的贴图就是其它服务的入口，例如应用监控（[AWS CloudWatch]()）、[CodePipeline](chapter4.7.md)、托管工具，通过
+仪表盘其它的贴图就是其它服务的入口，例如应用监控（[AWS CloudWatch](chapter18.1.md)）、[CodePipeline](chapter4.7.md)、托管工具，通过
