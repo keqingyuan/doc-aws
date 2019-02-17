@@ -19,3 +19,16 @@ Amazon EBS 通用 (SSD) 卷和 Amazon EBS 预配置 IOPS (SSD) 卷可以通过 S
 Amazon EBS 支持跨 AWS 区域复制快照，从而实现地理扩展、数据中心迁移和灾难恢复，在保护您的业务的同时保证灵活性。
 #### 性能优化
 针对 Amazon EBS 优化过的实例可以为 Amazon EBS 卷提供专用的网络容量。这样可以尽可能减少 EBS 与您的实例之间的网络争用，为您的 EBS 卷提供最佳性能。
+## 使用案例
+#### 关系数据库
+Amazon EBS 可随您的性能需要而进行扩展，无论您是在支持数百万游戏客户还是支持数十亿电子商务交易。Amazon EBS 上广泛部署了各类数据库，如 Oracle、Microsoft SQL Server、MySQL 和 PostgreSQL。
+#### 企业应用程序
+Amazon EBS 通过提供可靠的块存储来运行关键任务应用程序（如 Oracle、SAP、Microsoft Exchange 和 Microsoft SharePoint）来满足您的组织的多样化需要。
+#### 开发和测试
+Amazon EBS 使您的组织更灵敏、更快地对客户需求作出反应。只需单击几下就可以预置、复制、扩展或存档您的开发、测试和生产环境。
+#### NOSQL 数据库
+Amazon EBS 卷可以在运行 NoSQL 数据库时提供应用程序所需的稳定、低延迟的性能。
+#### 业务连续性
+通过定期跨不同地理区域备份数据和记录文件来尽可能减少数据丢失和缩短恢复时间。复制 Amazon 系统映像 (AMI) 和 EBS 快照，以在新的 AWS 区域启动应用程序。
+## 定价
+详情参考[定价](https://aws.amazon.com/cn/ebs/pricing/?nc=sn&loc=3)
