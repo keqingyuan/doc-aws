@@ -64,4 +64,4 @@ Pipeline是 [AWS CodePipeline](chapter4.7.md) 服务。点击`Pipelines`菜单�
 点击Pipeline的名字，展现下图，从源码到部署一个完整的流水线。
 ![pipeline](/assets/2019-02-17_170651.png)
 #### 团队
-在这里，您可以和您的团队开展安全的项目协作。您可以轻松管理项目所有者、参与者和观察者的访问权限，而无需针对每项服务手动配置策略。AWS CodeStar 通过提供符合 AWS Identity and Access Management 最佳实践的基于角色的内置策略，为团队简化了设置项目访问权限的过程。
+在这里，您可以轻松管理项目所有者、参与者和观察者的访问权限，而无需针对每项服务手动配置策略。AWS CodeStar 通过提供符合 AWS Identity and Access Management 最佳实践的基于角色的内置策略，为团队简化了设置项目访问权限的过程。
