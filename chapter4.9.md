@@ -25,3 +25,9 @@ AWS X-Ray 会创建一个可供应用程序使用的服务地图，其中包含�
 借助 AWS X-Ray，您可以直接从服务地图直观地检测出节点和边缘的延迟分布情况。您可以快速隔离异常、以图表形式表示模式和趋势、深入了解轨迹数据，并按内置的键和自定义注释进行筛选，以更清楚地了解影响您的应用程序和最终用户的性能问题。
 #### 数据注释和筛选
 借助 AWS X-Ray，可以向应用程序中特定组件或服务释放出的数据添加注释。您可以使用此方法添加特定于业务的元数据，以便帮助您更好地诊断问题。您还可以按注释值、平均延迟、HTTP 响应状态、时间戳、使用的数据库表等属性查看和筛选轨迹数据。
+![search](/assets/clouddebugger_screenshot_thumbnail4.699cb9c1e694b101cfab8d902871789efd7f7a22.png)
+![detail](/assets/X-Ray_for_Reinvent-9_Page_09.54c34d683b7c1befc06f0eccaaa340cad104f8b8.jpg)
+#### 控制台和编程访问
+您可以将 AWS X-Ray 与 AWS 管理控制台、AWS CLI 和 AWS 开发工具包结合使用。借助 X-Ray API，能够以编程方式访问服务，这样便可轻松导出轨迹数据或将数据提取到您自己的工具和自定义分析控制面板中。
+#### 安全性
+AWS X-Ray 已与 AWS Identity and Access Management (IAM) 集成，因此您可以控制哪些用户和资源有权访问您的轨迹数据及其访问方式。
