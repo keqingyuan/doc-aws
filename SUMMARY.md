@@ -37,6 +37,8 @@
   * [AWS CodePipline](chapter4.7.md)
   * [AWS 命令行界面](chapter4.8.md)
   * [AWS X-Ray](chapter4.9.md)
-* 
+* [分析](chapter5.0.md)
+* [应用程序集成](chapter6.0.md)
+* [AR和VR](chapter7.0.md)
 
 
