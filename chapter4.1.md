@@ -42,5 +42,6 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 点击源码就是 [AWS CodeCommit](chapter4.5.md) 服务。如果你使用AWS CodeCommit来托管你的源码在这里你可以看到你的源码库的信息。
 ![aws codecommit](/assets/2019-02-17_155625.png)
 **构建**
+构建是[AWS CodeBuild](chapter4.4.md)
 **部署**
 **Pipeline**
