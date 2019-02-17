@@ -33,3 +33,5 @@ AWS CodePipeline 可帮助您实现软件发布流程的自动化，从而使您
 凭借 AWS CodePipeline，您可以立即开始对软件发布流程进行建模。无需预置或设置服务器。CodePipeline 是一种完全托管型持续交付服务，可连接到您的现有工具和系统。
 #### 易于集成
 AWS CodePipeline 可以轻松扩展以适应您的特定需求。您可以在发布流程的任何阶段使用我们的预建插件或您自己的自定义插件。例如，您可以从 GitHub 拉取您的源代码，使用本地 Jenkins 构建服务器，使用第三方服务运行负载测试，或将部署信息传递到您的自定义操作控制面板。
+## 定价
+详情参考[定价](https://aws.amazon.com/cn/codepipeline/pricing/?nc=sn&loc=3)
