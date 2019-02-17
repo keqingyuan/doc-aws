@@ -8,6 +8,12 @@
   * [CodeStar](chapter4.1.md)
   * [Amazon Corretto](chapter4.2.md)
   * [AWS Cloud9](chapter4.3.md)
+  * [AWS CodeBuild](chapter4.4.md)
+  * [AWS CodeCommit](charpter4.5.md)
+  * [AWS CodeDeploy](charpter4.6.md)
+  * [AWS CodePipline](charpter4.7.md)
+  * [AWS 命令行界面](charpter4.8.md)
+  * [AWS X-Ray](charpter4.9.md)
 * 
 
 
