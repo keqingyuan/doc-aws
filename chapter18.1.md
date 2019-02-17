@@ -18,4 +18,4 @@ Amazon CloudWatch 使您能够设置高精度警报和采取自动化操作。�
 借助 Amazon CloudWatch Logs Insights，您可以即时了解、分析和直观显示日志，从而轻松排查运营问题。使用 Logs Insights，您仅需为运行的查询付费。Logs Insights 可以根据您的日志数量和查询复杂度进行扩展，从而在几秒钟内提供答案。此外，您还可以发布基于日志的指标、创建警报，在 CloudWatch 控制面板中将日志和指标关联起来，从而获得完全的运营可见性。
 
 ##定价
-详情参考[定价](https://aws.amazon.com/cn/cloudwatch/pricing/)
+详情参考[定价](https://aws.amazon.com/cn/cloudwatch/pricing/
