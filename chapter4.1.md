@@ -28,5 +28,5 @@ AWS CodeStar 提供统一的用户界面，让您可以轻松协调您的日常�
 #### 仪表盘
 仪表盘中前两个贴图（点击Close可以关闭），第一个贴图里展现项目的状态，以及关联的IDE工具。
 ![CodeStar控制面板-仪表盘](/assets/2019-02-17_121934.png)
-CodeStar不仅仅支持AWS Cloud9，同时支持Eclipse、IntelliJ、Visual Studio等流行的第三方IDE，第三方的IDE都是以插件为媒介的方式支持，下图是AWS支持的IDE。
+CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse、IntelliJ、Visual Studio等流行的第三方IDE，第三方的IDE都是以插件为媒介的方式支持，下图是AWS支持的IDE。
 ![ide](/assets/2019-02-17_131028.png)
