@@ -27,3 +27,5 @@ AWS CodeBuild 采用按需计算和按使用量付费的模式，让您能够更
 您的构建项目使用特定于客户的密钥进行加密，而密钥由 AWS Key Management Service (KMS) 管理。AWS CodeBuild 与 AWS Identity and Access Management 集成，因此您可以精确控制哪些用户以及哪些 AWS 资源可以访问您的构建任务。
 #### 监控
 您可以使用 AWS CodeBuild 控制台、AWS CLI、开发工具包、API 或 Amazon CloudWatch 来查看有关构建任务的详细信息。AWS CodeBuild 会向您显示构建任务的开始时间、结束时间、状态和提交 ID 等信息。CodeBuild 还会将构建任务指标和日志传输到 CloudWatch。您可以使用 CloudWatch 创建自定义控制面板、设置 CloudWatch 警报、排查构建问题或查看构建日志。
+## 定价
+详情参考[定价](https://aws.amazon.com/cn/codebuild/pricing/?nc=sn&loc=3)
