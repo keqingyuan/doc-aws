@@ -55,3 +55,5 @@ EFA 作为可选的 EC2 网络功能提供，您可以在 C5n.9xl、C5n.18xl 和
 客户可以从他们的 Amazon Virtual Private Cloud (VPC) 或通过 AWS Direct Connect 对 Amazon EC2 API 进行私有访问，而无需使用公有 IP，也无需使用流量遍历整个 Internet。AWS PrivateLink 是专为客户设计用于特定用途的技术，采用高性能且高度可用的方式来访问 Amazon 服务，同时将所有网络流量保持在 AWS 网络内。要将 Amazon EC2 和 AWS PrivateLink 结合使用，您需要在 VPC 中为 EC2 创建一个终端节点。任何指定到此终端节点的流量都将被以私有方式路由到 EC2 服务。
 #### Amazon Time Sync Service
 Amazon Time Sync Service 为包括 EC2 实例在内的 AWS 产品提供高度准确、可靠且可用的时间源。在 VPC 中运行的所有实例都可以通过一个普遍可及的 IP 地址访问该服务。该服务在 AWS 地区内使用一组冗余的、连接卫星的原子参考时钟提供符合协调世界时 (UTC) 全球标准的高度准确且可靠的当前时间读数。有关如何访问该服务的说明，请参阅《Linux 用户指南》和《Windows 用户指南》的“设置时间”部分。
+## 定价
+详情参考[定价](https://aws.amazon.com/cn/ec2/pricing/)
