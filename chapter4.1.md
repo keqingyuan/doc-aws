@@ -34,4 +34,4 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 ![ide](/assets/2019-02-17_131028.png)
 仪表盘其它的贴图就是其它服务的入口，例如应用监控（[AWS CloudWatch](chapter18.1.md)）、[CodePipeline](chapter4.7.md)、托管工具，通过`Add tile`添加其它的服务入口，例如：Jira、持续部署等服务。
 ### Code
-点击Code菜单会展现[AWS CodeCommit](chapter4.5.md) 或者 GitHub 的界面
+点击Code菜单会跳转到 [AWS CodeCommit](chapter4.5.md) 或者 GitHub。
