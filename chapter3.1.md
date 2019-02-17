@@ -15,3 +15,7 @@ OpenJDK 的免费、多平台、生产就绪型发行版，详见 [Amazon Corret
 实现代码部署自动化以确保应用程序的正常运行时间，详见 [AWS CodeDeploy](chapter4.6.md)。
 ### AWS CodePipline
 自动化持续交付管道，可实现快速、可靠的更新，详见 [AWS CodePipline](chapter4.7.md)。
+### AWS 命令行界面
+用户管理AWS产品的统一工具，详见 [AWS 命令行界面](chapter4.8.md)。
+### AWS X-Ray
+分析与调试分布式生产应用程序，详见 [AWS X-Ray](chapter4.9.md)。
