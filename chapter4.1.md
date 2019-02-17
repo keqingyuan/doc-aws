@@ -36,7 +36,7 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 ### 源码
 点击Code菜单会跳转到 [AWS CodeCommit](chapter4.5.md) 或者 GitHub。
 ### 构建
-按下Build菜单，会跳转到 [AWS CodeBuild](chapter4.4.md) 服务。左边的菜单栏按照[源码](chapter4.5.md)、[构建](chapter4.4.md)、[部署](chapter4.6.md)、[Pipeline](chapter4.7.md)展开，每一个菜单都有一个各自的说明操作Getting started。
+按下Build菜单，会跳转到 [AWS CodeBuild](chapter4.4.md) 服务。左边的菜单栏按照[源码](chapter4.5.md)、[构建](chapter4.4.md)、[部署](chapter4.6.md)、[Pipeline](chapter4.7.md)展开，每一个菜单都有一个各自的说明操`Getting started`。
 ![CodeStar控制面板-构建](/assets/2019-02-17_152908.png)
 **源码**
 点击源码就是 [AWS CodeCommit](chapter4.5.md) 服务。如果你使用AWS CodeCommit来托管你的源码在这里你可以看到你的源码库的信息。
