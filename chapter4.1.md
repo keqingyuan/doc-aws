@@ -46,6 +46,6 @@ CodeStar不仅支持自家的 [AWS Cloud9](chapter4.3.md)，同时支持Eclipse�
 **部署**
 部署是 [AWS CodeDeploy](chapter4.6.md) 服务。在这里对看到应用我们已经有一个没有部署信息的应用，笔者要给这个应用创建部署。
 ![deploy](/assets/2019-02-17_160127.png)
-点击应用名称以后，看到下图的界面。可以看到有部署组的概念，详情见 [AWS CodeDeploy](chapter4.6.md) 部署组，部署组一般用环境或者配置来区分
+点击应用名称以后，看到下图的界面。可以看到有部署组的概念，详情见 [AWS CodeDeploy](chapter4.6.md) 部署组，部署组一般用环境或者配置来分组。
 ![deploy-group](/assets/2019-02-17_162851.png)
 **Pipeline**
